@@ -48,6 +48,13 @@ This structured data can then be used to create dashboards in Power BI, providin
 
 <hr>
 
+### Banco de Dados
+
+In this branch, there is an APIRest that enables the GET, POST, PUT and DELETE methods, in which there is a database called "chamados" with a table called "registros", so they can be tested by: 
+[https://resttesttest.com/].
+
+<hr>
+
 ### Tecnologias
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
